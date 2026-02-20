@@ -154,6 +154,14 @@ docker exec <container> cat /tmp/test.txt
 
 ---
 
+## Source
+
+This optimization checklist was compiled based on insights from the video:
+
+📺 **[OpenClaw Token Optimization Guide](https://www.youtube.com/watch?v=RX-fQTW2To8)**
+
+---
+
 > ⚠️ **Reminders**
 >
 > - Never install Ollama on this VPS
